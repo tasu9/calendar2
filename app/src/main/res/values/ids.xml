@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView" type="id" />
+    <item name="button_clear_image" type="id" />
+    <item name="button_take_picture" type="id" />
+    <item name="button_pick_image" type="id" />
+    <item name="button_to_api" type="id" />
+    <item name="calendarView" type="id" />
+    <item name="selectedDate" type="id" />
+</resources>
